@@ -1,0 +1,13 @@
+1528 = print register 0
+1458 =  push register 0,3,4,5,6 to stack
+        set reg 6 to reg 0
+        set reg 5 to reg 1
+        readmem 32772 to reg 0
+        set reg 1 to 0
+        add 1 to reg 3
+        
+     
+
+1531 : A = 0     
+2125 : A = B xor C
+6027 : teleporter test function
